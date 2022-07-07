@@ -1,4 +1,4 @@
-# Rent a Car Portal
+# Car Rental Portal
 
 Car rental companies are added to the system.
 Companies enter the city where they are located into the system.
